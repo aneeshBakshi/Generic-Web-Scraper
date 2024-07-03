@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs", // Using CommonJS module system
+    "strict": true, // Enabling strict type-checking options
+    "esModuleInterop": true, // Enables emit interoperability for esModules
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true // Enforce consistent casing in file names
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules"]
+}

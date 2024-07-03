@@ -1,0 +1,5 @@
+.env
+node_modules
+pagesURL.txt
+errorLog.txt
+result.txt
