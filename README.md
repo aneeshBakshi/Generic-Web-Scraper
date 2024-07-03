@@ -1,4 +1,4 @@
-# Test Generic Web Scraper
+# Generic Web Scraper
 
 The Generic Web Scraper is a versatile tool built using Node.js, TypeScript, Langchain.js, and Cheerio. It is designed to extract static content from websites efficiently. This scraper is user-friendly and adaptable, making it suitable for a variety of web scraping tasks. However, please note that it is optimized for static content and may not fully support dynamic content extraction, which often requires a more tailored approach.
 
